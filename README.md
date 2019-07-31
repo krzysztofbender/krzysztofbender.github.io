@@ -5,10 +5,10 @@ Oprogramowanie dla twoich potrzeb.
 Posiadamy certyfikaty i gwarancje będące świadectwem jakości i rzetelności naszych usług.
 
 Cechy które charakteryzują naszą działalność to: 
-### Technologie
-### Jakość
-### Bezpieczeństwo
-### Social Media
+#### Technologie
+#### Jakość
+#### Bezpieczeństwo
+#### Social Media
 
 Jesteśmy zespołem, który łączy doświadczenie, praktykę i wiedzę na temat tworzenia nowoczesnych systemów.
 
