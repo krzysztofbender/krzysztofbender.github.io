@@ -14,6 +14,6 @@ W ramach dotychczasowych projektów nigdy nie zawiedliśmy naszych klientów. S�
 
 Zapraszam do kontaktu:
 
-789 354 723
+*789* *354* *723*
 
 krzysztof.bender+unitrics@gmail.com
